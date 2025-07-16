@@ -33,10 +33,12 @@ cd moodboard
 npm install
 npm start
 ```
-About the Developer
-Hi! I’m Ritika — a front-end developer passionate about user-friendly interfaces and interactive web experiences.
-This is one of my favorite projects in my React journey!
+**About the Developer**
 
-Feedback
+Hi! I’m Ritika — a front-end developer passionate about user-friendly interfaces and interactive web experiences.
+This is one of my first projects in my React journey!
+
+**Feedback**
+
 Have suggestions or ideas? Feel free to open issues or reach out via LinkedIn.
 
